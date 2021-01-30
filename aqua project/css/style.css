@@ -1,0 +1,122 @@
+/*Header part */
+
+#headpart {
+    background-image: url(aquaback.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45vmax;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.nav-link,
+.navbar-brand {
+    color: white !important;
+    font-size: 1.3rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem !important;
+}
+
+.head>h1 {
+    font-size: 7rem;
+    word-spacing: 50px;
+    margin-top: 14%;
+}
+
+.head>p {
+    font-size: 1.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* service section */
+
+.services>h5 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFDE59;
+}
+
+.services>h2 {
+    font-size: 5rem;
+}
+
+.col-sm-4 {
+    margin: 3% 0;
+}
+
+.col-sm-4>img {
+    margin-top: 15%;
+    width: 51px;
+    margin-bottom: 10%;
+}
+
+.col-sm-4>p {
+    text-align: justify;
+    padding: 1% 18%;
+}
+
+
+/* some of our fishes */
+
+#section2 {
+    background-color: #013140;
+    color: white;
+    padding: 5% 0;
+}
+
+.col-sm-8>h2 {
+    font-size: 3rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-text {
+    color: black;
+}
+
+.col-sm-10>h2 {
+    font-size: 4rem;
+    margin-bottom: 10%;
+}
+
+.fish-card {
+    margin: 0 3%;
+}
+
+.col-sm-2>h2 {
+    margin-top: 110%;
+    margin-left: 16%;
+}
+
+.col-sm-2 {
+    background-color: white;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 50%;
+    color: black;
+}
+
+
+/* contact */
+
+.coral>img {
+    width: 100%;
+}
+
+.col-sm-4>img {
+    margin-top: 50%;
+}
+
+.details {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.details>h2 {
+    font-size: 5rem;
+}
+
+.address {
+    margin-left: 20%;
+}
